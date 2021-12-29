@@ -2,6 +2,8 @@
 build
 
 # Visual Studio clutter
+bin
+bin-int
 _ReSharper*
 *.sdf
 *.suo
